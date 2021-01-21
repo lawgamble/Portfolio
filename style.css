@@ -84,8 +84,11 @@ img {
 /* .contact is for my  enail link and its container */
 
 .contact {
+  background-color: #14213d;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-seri; 
   text-align: center;
+  color: white;
+  border-radius: 5px;
 }
 
 hr {
